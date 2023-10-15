@@ -1,6 +1,8 @@
 # YT Downloader
 
-![YT Downloader Logo](app/src/main/res/drawable/yt.png)
+<p align="center">
+  <img src="app/src/main/res/drawable/yt.png" height="300px" width="300px" alt="logo">
+</p>
 
 YT Downloader is an Android app that allows you to download YouTube videos for offline viewing. With an intuitive interface and fast download speeds, it's a convenient tool for saving your favorite videos directly to your device.
 
